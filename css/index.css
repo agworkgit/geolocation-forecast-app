@@ -20,7 +20,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     color: white;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
 }
 
 .page {
@@ -37,7 +37,7 @@ body {
 }
 
 .app-header {
-    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
+    font-size: clamp(1.5rem, 1.2433rem + 0.5369vw, 2.25rem);
     text-align: right;
     margin-bottom: 5vh;
     width: 100%;
@@ -58,7 +58,7 @@ body {
     margin-bottom: 0.5vh;
     border: 1px solid rgb(160, 160, 160);
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
 }
 
 .sidebar button {
@@ -71,7 +71,7 @@ body {
     margin-bottom: 1vh;
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
     cursor: pointer;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
 }
 
 .sidebar button:hover {
@@ -100,7 +100,7 @@ body {
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
     text-transform: capitalize;
     cursor: pointer;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
 }
 
 .search-city-saved:hover {
@@ -120,13 +120,13 @@ body {
     width: 100%;
     text-align: left;
     height: auto;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
     box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 
 .text-info {
     width: 80%;
-    font-size: clamp(1.125rem, 1.0608rem + 0.1342vw, 1.3125rem);
+    font-size: clamp(1.3125rem, 1.2483rem + 0.1342vw, 1.5rem);
 }
 
 .icon-info{
@@ -173,7 +173,7 @@ body {
 .weekly-header {
     margin-block: 2vh;
     text-align: left;
-    font-size: clamp(1rem, 0.9118rem + 0.4706vw, 1.5rem);
+    font-size: clamp(1.125rem, 1.0608rem + 0.1342vw, 1.3125rem);
 }
 
 .icon-info-weekly {
